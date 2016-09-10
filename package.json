@@ -1,0 +1,16 @@
+{
+  "name": "postcss-import-issue",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "$(npm bin)/webpack-dev-server --progress --colors --inline --hot"
+  },
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "postcss-import": "^8.1.2",
+    "postcss-loader": "^0.13.0",
+    "precss": "^1.4.0",
+    "style-loader": "^0.13.1",
+    "webpack": "1.13.1",
+    "webpack-dev-server": "1.14.1"
+  }
+}

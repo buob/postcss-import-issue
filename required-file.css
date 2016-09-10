@@ -1,0 +1,5 @@
+body {
+  background-color: pink;
+}
+
+@import './imported-file.css';
